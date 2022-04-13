@@ -12,7 +12,7 @@ import CreateChatScreen from './screens/CreateChatScreen';
 import ChatScreen from './screens/ChatScreen';
 
 
-
+//test test
 //To use Stacks, we first must create an array that will store all of the screens. and add || remove as needed
 const Stack = createStackNavigator();
 
