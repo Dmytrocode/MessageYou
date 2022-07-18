@@ -1,5 +1,5 @@
 /* 
-Author: Dmytro Kavetskyy
+Author: Dmytro Kavetskyy & Faisal Bin Mir
 ChatScreen is the Unique screen for every chat, where unique messages will be displayed and
 there is a functionality to send messages in the bottom of the screen.
 */

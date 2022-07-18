@@ -1,3 +1,8 @@
+/* 
+Author: Dmytro Kavetskyy & Faisal Bin Mir
+*/
+
+
 import 'react-native-gesture-handler';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
@@ -11,8 +16,6 @@ import ChatHomeScreen from './screens/ChatHomeScreen';
 import CreateChatScreen from './screens/CreateChatScreen';
 import ChatScreen from './screens/ChatScreen';
 
-
-//test test
 //To use Stacks, we first must create an array that will store all of the screens. and add || remove as needed
 const Stack = createStackNavigator();
 

@@ -1,5 +1,5 @@
 /* 
-Author: Dmytro Kavetskyy
+Author: Dmytro Kavetskyy & Faisal Bin Mir
 ChatHomeScreen is the General Screen that will display all of the created Chats. This Screen contains a SignOut Button, 
 a round button to create new Chats, and the ability to join chats by clicking on them.
 */

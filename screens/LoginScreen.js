@@ -1,5 +1,5 @@
 /* 
-Author: Dmytro Kavetskyy
+Author: Dmytro Kavetskyy & Faisal Bin Mir
 LoginScreen will allow registered users to login with their email + password
 */
 import React, { useEffect, useState , useLayoutEffect} from "react";

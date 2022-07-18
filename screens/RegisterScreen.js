@@ -1,5 +1,5 @@
 /* 
-Author: Dmytro Kavetskyy
+Author: Dmytro Kavetskyy & Faisal Bin Mir
 Register Screen where new users can register a new account with the username, email, and password.
 */
 import { StyleSheet, Text, View } from 'react-native'

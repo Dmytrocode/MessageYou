@@ -1,5 +1,5 @@
 /* 
-Author: Dmytro Kavetskyy
+Author: Dmytro Kavetskyy & Faisal Bin Mir
 CreateChatScreen is the is the Screen where Logged IN Users can create new Chats, with the only 
 option to choose a Chat name
 */
